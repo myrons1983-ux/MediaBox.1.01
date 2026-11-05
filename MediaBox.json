@@ -1,0 +1,38 @@
+{
+  "name": "MediaBox",
+  "version": "1.0.0",
+  "logo": "https://github.com/myrons1983-ux/MediaBox.pcs/blob/main/IMG_20261104_212920.jpg",
+  "items": [
+    {
+      "type": "pages",
+      "headline": "MediaBox",
+      "template": {
+        "type": "separate",
+        "layout": "0,0,2,2",
+        "color": "msx-glass"
+      },
+      "items": [
+        { "title": "OTT-PLAY", "icon": "live-tv", "action": "link:https://github.com/myrons1983-ux/MediaBox.git/Ott-Play.jpg },
+        { "title": "Фильмы", "icon": "movie", "action": "link:https://example.com/2" },
+        { "title": "Сериалы", "icon": "tv", "action": "link:https://example.com/3" },
+        { "title": "YouTube", "icon": "play-arrow", "action": "link:https://example.com/4" },
+        { "title": "Музыка", "icon": "queue-music", "action": "link:https://example.com/5" },
+        { "title": "Избранное", "icon": "favorite", "action": "link:https://example.com/6" },
+
+        { "title": "Погода", "icon": "wb-sunny", "action": "link:https://example.com/7" },
+        { "title": "Файлы", "icon": "folder", "action": "link:https://example.com/8" },
+        { "title": "Настройки", "icon": "settings", "action": "link:https://example.com/9" },
+        { "title": "Камера", "icon": "photo-camera", "action": "link:https://example.com/10" },
+        { "title": "Календарь", "icon": "event", "action": "link:https://example.com/11" },
+        { "title": "Игры", "icon": "sports-esports", "action": "link:https://example.com/12" },
+
+        { "title": "Галерея", "icon": "image", "action": "link:https://example.com/13" },
+        { "title": "Облако", "icon": "cloud", "action": "link:https://example.com/14" },
+        { "title": "Трансляция", "icon": "cast", "action": "link:https://example.com/15" },
+        { "title": "История", "icon": "history", "action": "link:https://example.com/16" },
+        { "title": "Браузер", "icon": "language", "action": "link:https://example.com/17" },
+        { "title": "Система", "icon": "widgets", "action": "link:https://example.com/18" }
+      ]
+    }
+  ]
+}
